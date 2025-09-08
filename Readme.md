@@ -1,4 +1,4 @@
-# Azure Sentinel Scale 🛡️
+# DevSecOps_VMSS 🛡️
 
 > Enterprise-grade Azure Virtual Machine Scale Set with Automated Security Validation, Cost Optimization, and Compliance Monitoring
 
